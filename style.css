@@ -128,3 +128,81 @@ body {
 
 
 /* Qurbani Ended */
+
+
+/* Importance added */
+.important {
+    text-align: center;
+}
+
+.important h1 {
+    font-size: 50px;
+
+}
+
+.important p {
+    font-size: 20px;
+
+}
+
+
+/* Importance ended */
+
+
+/* Activites added */
+
+.four-activities {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 60px;
+}
+
+.four-activities h2 {
+    font-size: 40px;
+}
+
+.grid-items-1 {
+
+    background-color: antiquewhite;
+    padding: 40px;
+    margin-right: 30px;
+    border-radius: 20px;
+
+}
+
+.grid-items-2 {
+    padding: 20px;
+    background-color: antiquewhite;
+    padding: 40px;
+    border-radius: 20px;
+
+
+
+}
+
+.grid-items-3 {
+
+    background-color: antiquewhite;
+    margin-right: 30px;
+    margin-top: 30px;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.grid-items-4 {
+    background-color: antiquewhite;
+    margin-top: 30px;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+/* Activites ended */
+
+/* Adha added */
+.adha img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 500px;
+}
