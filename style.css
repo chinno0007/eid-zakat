@@ -15,8 +15,9 @@ body {
 
 
 .container {
-    width: 1000px;
+    width: 1200px;
     margin: 0 auto;
+    background-color: white;
 
 }
 
@@ -57,7 +58,7 @@ body {
     text-align: left;
     padding-left: 100px;
     padding-top: 50px;
-    word-spacing: 10;
+    word-spacing: 10px;
 }
 
 .eidul-adha p {
@@ -66,3 +67,64 @@ body {
 
 
 /* Eid Planning Ended */
+
+
+/* Qurbani Added */
+.Qurbani {
+    display: flex;
+    padding: 100px;
+
+
+}
+
+.festive1 h1 {
+    font-size: 50px;
+}
+
+.festive1 {
+    float: left;
+    width: 50%;
+    padding-right: 50px;
+    padding-top: 30px;
+    font-size: 20px;
+
+}
+
+.festive2 img {
+    width: 500px;
+    height: 450px;
+    float: right;
+    border-radius: 30px;
+
+}
+
+
+/* Eid Salah */
+
+.salah {
+    display: flex;
+    padding-bottom: 100px;
+}
+
+.salah h1 {
+    font-size: 50px;
+}
+
+.salah1 img {
+    width: 500px;
+    height: 450px;
+    float: left;
+    border-radius: 30px;
+    margin-left: 90px;
+}
+
+.salah2 {
+    float: right;
+    padding-left: 100px;
+    padding-top: 50px;
+    width: 40%;
+    font-size: 20px;
+}
+
+
+/* Qurbani Ended */
